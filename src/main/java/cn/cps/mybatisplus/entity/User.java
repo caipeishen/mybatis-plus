@@ -1,4 +1,4 @@
-package cn.bd.mybatisplus.entity;
+package cn.cps.mybatisplus.entity;
 
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.AllArgsConstructor;

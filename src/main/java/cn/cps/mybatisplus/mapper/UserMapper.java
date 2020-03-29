@@ -1,6 +1,6 @@
-package cn.bd.mybatisplus.mapper;
+package cn.cps.mybatisplus.mapper;
 
-import cn.bd.mybatisplus.entity.User;
+import cn.cps.mybatisplus.entity.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
 

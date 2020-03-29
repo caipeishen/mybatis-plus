@@ -1,4 +1,4 @@
-package cn.bd.mybatisplus.handler;
+package cn.cps.mybatisplus.handler;
 
 import com.baomidou.mybatisplus.core.handlers.MetaObjectHandler;
 import org.apache.ibatis.reflection.MetaObject;

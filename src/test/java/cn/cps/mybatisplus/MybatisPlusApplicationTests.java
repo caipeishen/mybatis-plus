@@ -1,17 +1,10 @@
-package cn.bd.mybatisplus;
+package cn.cps.mybatisplus;
 
-import cn.bd.mybatisplus.entity.User;
-import cn.bd.mybatisplus.mapper.UserMapper;
-import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import cn.cps.mybatisplus.mapper.UserMapper;
 import org.junit.jupiter.api.Test;
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import javax.annotation.Resource;
-import java.sql.Wrapper;
-import java.util.Arrays;
-import java.util.List;
 
 @SpringBootTest
 class MybatisPlusApplicationTests {
