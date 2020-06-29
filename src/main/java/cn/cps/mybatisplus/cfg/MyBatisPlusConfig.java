@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
 @Configuration
-@MapperScan("cn.bd.mybatisplus.mapper")
+@MapperScan("cn.cps.mybatisplus.mapper")
 public class MyBatisPlusConfig {
 
     //乐观锁插件
